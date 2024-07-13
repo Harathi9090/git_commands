@@ -1,0 +1,6 @@
+line 1 adding from branch2 to check conflict
+line 2
+modification from feature/test1 branch
+adding a line to test pull request
+
+adding line to test conflict from test1

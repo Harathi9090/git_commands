@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 line 1 adding from branch2 to check conflict by test1
+=======
+line 1 adding from branch2 to check conflict form branch2
+>>>>>>> branch2
 <<<<<<< HEAD
 line 2
 modification from feature/test1 branch

@@ -5,12 +5,3 @@ modification from feature/test1 branch
 adding a line to test pull request
 
 adding line to test conflict from test1
-<<<<<<< HEAD
-=======
-testing push origin
-=======
-line 2 changed by test1
-modification from feature/test1 branch
-adding a line to test pull request
->>>>>>> test1
->>>>>>> 8c544092be67f04a34070a437c80bad791b11ed7
